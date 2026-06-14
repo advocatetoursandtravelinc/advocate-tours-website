@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "advocate-website",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-s", "C:\\Users\\Lizmar\\Desktop\\CLAUDE FILES\\advocate-tours-website", "-p", "3456"],
+      "port": 3456
+    }
+  ]
+}
